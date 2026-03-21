@@ -39,7 +39,11 @@
 邮箱和密码可随意输入
 
 ## Document
-[Click](https://v2board.com)
+- 原版文档: [https://v2board.com](https://v2board.com)
+- v2et-board 部署文档:
+  - [部署总览](docs/deploy/README.md)
+  - [aaPanel 部署](docs/deploy/aapanel.md)
+  - [Docker Compose 部署（附录）](docs/deploy/docker-compose.md)
 
 ## Sponsors
 Thanks to the open source project license provided by [Jetbrains](https://www.jetbrains.com/)
